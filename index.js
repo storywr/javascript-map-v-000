@@ -46,10 +46,3 @@ const transformedAutobotsWithMap = autobots.map(function (autobot) {
 });
 
 console.log(transformedAutobotsWithMap);
-/**
- Prints:
- [ { name: 'Optimus Prime', strength: 10, isTransformed: true },
- { name: 'Ironhide', strength: 6, isTransformed: true },
- { name: 'Bumblebee', strength: 5, isTransformed: true },
- { name: 'Ratchet', strength: 3, isTransformed: true } ]
- */
